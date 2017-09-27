@@ -1,4 +1,4 @@
-# CTI110
-TaMera Gray
-30 August 2017
-Class Files
+# CTI 110 Repository
+Created for M2LAB1
+Gray, Tamera
+26 September 2017
